@@ -1,0 +1,101 @@
+body {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-family: Tahoma, sans-serif;
+}
+.heading {
+	color: #333333;
+	text-align: center;
+	font-size: 24px;
+	font-weight: 400;
+	margin-top: 125px;
+	margin-bottom: 85px;
+}
+.heading span {
+	display: block;
+	font-weight: 900;
+	text-transform: uppercase;
+	margin-top: 13px;
+}
+.section {
+	margin-left: 135px;
+	margin-right: 135px;
+	text-align: center;
+}
+.video, .form {
+	display: inline-block;
+	vertical-align: top;
+}
+.video {
+	margin-right: 12px;
+}
+.form {
+	width: 350px;
+	border: 5px solid #3333cc;
+	padding: 22px;
+}
+.form p {
+	font-weight: 900;
+	font-size: 20px;
+	margin-bottom: 40px;
+}
+input {
+	width: 310px;
+	display: block;
+	color: #999999;
+	font-size: 18px;
+	padding: 18px;
+}
+.name, .email {
+	margin-bottom: 10px;
+}
+.btn {
+	width: 347px;
+	font-weight: 400;
+	font-size: 18px;
+	padding: 23px 58px;
+	color: #fff;
+	background-color: #3333cc;
+	border: none;
+	cursor: pointer;
+}
+.heading-future {
+	font-weight: 900;
+	font-size: 24px;
+	text-transform: uppercase;
+	color: #333333;
+	margin-top: 130px;
+}
+.futures {
+	display: flex;
+	justify-content: space-between;
+	margin: 85px;
+}
+.picture {
+	display: inline-block;
+}
+.picture img{
+	width: 75px;
+}
+.picture p {
+	font-size: 16px;
+	font-weight: 900;
+	color: #333333;
+	width: 125px;
+}
+.heading-clients {
+	font-weight: 900;
+	font-size: 24px;
+	text-transform: uppercase;
+	color: #333333;
+	margin-top: 100px;
+}
+.photos {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 32px;
+}
+.bottom {
+	margin-bottom: 100px;
+}
