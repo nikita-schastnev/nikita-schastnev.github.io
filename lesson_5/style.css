@@ -1,0 +1,29 @@
+body {
+	background-color: #bef574;
+}
+h1 {
+	text-align: center;
+}
+ul {
+	border: 2px dashed #000;
+}
+.part {
+	text-align: center;
+	color: brown;
+	text-decoration: underline;
+}
+.span-1 {
+	font-weight: bold;
+}
+.span-2 {
+	font-style: italic;
+}
+.span-3 {
+	font-weight: bold;
+}
+.span-4 {
+	text-decoration: line-through;
+}
+.span-5 {
+	text-decoration: underline;
+}
