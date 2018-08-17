@@ -1,0 +1,30 @@
+body {
+	font-family: 'Arial', sans-serif !important;
+}
+.container {
+	margin-top: 140px;
+}
+.heading {
+	text-align: center;
+	font-size: 36px;
+	font-weight: 400;
+	text-transform: uppercase;
+	margin-bottom: 125px;
+}
+.row {
+	display: flex;
+	justify-content: space-around;
+}
+.box {
+	display: block;
+	text-align: center;
+}
+.box img{
+	width: 135px;
+	height: 135px;
+	margin-bottom: 35px;
+}
+.box p {
+	font-size: 18px;
+	font-weight: 400;
+}
