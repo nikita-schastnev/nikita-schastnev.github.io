@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	box-sizing: border-box;
+}
+.block {
+	box-sizing: border-box;
+	width: 300px;
+	height: 400px;
+	border: 2px solid #aeaeae;
+	position: absolute;
+	top: 20%;
+	left: 37%;
+	padding: 20px 30px;
+}
