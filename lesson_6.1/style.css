@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	height: 1000px;
+}
+.header {
+	background-color: #000;
+	color: #fff;
+	width: 100%;
+	height: 60px;
+	position: fixed;
+	display: inline-block;
+}
+.logo {
+	height: 60px;
+	width: 300px;
+	text-align: center;
+	font-size: 40px;
+	font-style: italic;
+	display: inline-block;
+}
+.refs {
+	margin-top: 15px;
+	height: 60px;
+	width: 500px;
+	display: inline-block;
+	color: #fff;
+	float: right;
+}
+li {
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 20px;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+}
+.p-1 {
+	margin: 0;
+}
