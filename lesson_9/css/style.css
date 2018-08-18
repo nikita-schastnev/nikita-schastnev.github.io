@@ -1,0 +1,64 @@
+body {
+	font-family: 'Tahoma', sans-serif !important;
+}
+.heading {
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 1.5;
+	margin: 60px auto;
+}
+.heading span{
+	display: block;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+.video {
+	margin-bottom: 30px;
+}
+.form {
+	border: 5px solid #3333cc;
+	padding: 30px 20px;
+	margin-bottom: 110px;
+}
+.form p {
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 30px;
+}
+.form input {
+	margin-bottom: 15px;
+}
+.form-btn {
+	font-size: 18px;
+	background-color: #3333cc;
+	margin-top: 30px;
+	margin-bottom: 5px;
+}
+.feature-heading {
+	font-size: 24px;
+	font-weight: 900;
+	text-transform: uppercase;
+	margin-bottom: 90px;
+}
+.feature-row {
+	margin-bottom: 50px;
+}
+.feature-row img {
+	width: 100px;
+}
+.feature-row p {
+	font-size: 16px;
+	font-weight: 900;
+}
+.btn-row {
+	margin-bottom: 100px;
+}
+.contact-heading {
+	font-size: 24px;
+	font-weight: 900;
+	text-transform: uppercase;
+	margin-bottom: 40px;
+}
+.p-row img{
+	margin-bottom: 20px;
+}
