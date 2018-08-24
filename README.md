@@ -9,5 +9,5 @@
 [Урок 8 - Ускорение верстки в разы](https://nikita-schastnev.github.io/lesson_8 "Ускоренная верстка")  
 [Урок 9 - Верстка при помощи Bootstrap](https://nikita-schastnev.github.io/lesson_9 "Bootstrap")  
 [Урок 10 - Знакомство с препроцессором LESS](https://nikita-schastnev.github.io/lesson_10 "Работа с LESS")  
-[Урок 12 - Адаптивная верстка](https://nikita-schastnev.github.io/lesson_12 "Pixel Perfect")  
-[Урок 13 - Практика. Верстка шапки](https://nikita-schastnev.github.io/lesson_13 "Верстка шапки")
+[Урок 13 - Адаптивная верстка](https://nikita-schastnev.github.io/lesson_12 "Pixel Perfect")  
+[Часть 1. Модуль 5 - Практика. Верстка шапки](https://nikita-schastnev.github.io/lesson_13 "Верстка шапки")
