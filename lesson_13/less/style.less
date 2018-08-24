@@ -1,0 +1,49 @@
+/* Colors */
+@btn-color: #ffcc00;
+@icon-color: #669900;
+@bg-white: #fff;
+@danger: #ff0000;
+@text-color: #330033;
+
+/* Basic settings */
+html {
+	font-size: 10px;
+}
+.button {
+	background: @btn-color;
+	color: @bg-white;
+	padding: 1rem 3rem;
+	border-radius: 8px;
+	border: none;
+	cursor: pointer;
+	text-transform: uppercase;
+}
+section {
+	padding: 10rem 0;
+}
+/* --- */
+
+/* main */
+main {
+	padding: 3rem 0;
+}
+.header {
+	height: 7rem;
+}
+.phone-link {
+	display: inline-block;
+	color: @text-color;
+	font-weight: 900;
+	font-size: 1.5rem; //2rem
+	height: 7rem;
+	line-height: 7rem;
+}
+.wrap {
+	display: table;
+	width: 100%;
+	height: 7rem;
+	&-block {
+		display: table-cell;
+		vertical-align: middle;
+	}
+}
