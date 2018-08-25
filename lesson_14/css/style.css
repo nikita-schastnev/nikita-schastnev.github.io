@@ -1,0 +1,33 @@
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+
+.google-font-1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+}
+.google-font-2 {
+	font-family: 'Lobster', cursive;
+	font-size: 20px;
+}
+.download-font-1 {
+	font-family: 'Bebas Neue';
+	font-size: 20px;
+}
+.download-font-2 {
+	font-family: 'Lato';
+	font-style: 40px;
+}
