@@ -14,3 +14,4 @@
 [Урок 14 - Подключение шрифтов](https://nikita-schastnev.github.io/lesson_14 "Шрифты")  
 [Часть 2. Модуль 5 - Практика. Верстка первого экрана](https://nikita-schastnev.github.io/lesson_14_1 "Верстка первого экрана")  
 [Урок 15 - Псевдоклассы и псевдоэлементы](https://nikita-schastnev.github.io/lesson_15 "Псевдоклассы и псевдоэлементы")  
+[Часть 3. Модуль 5 - Практика. Адаптивная верстка первого экрана](https://nikita-schastnev.github.io/lesson_15_1 "Верстка первого экрана")  
