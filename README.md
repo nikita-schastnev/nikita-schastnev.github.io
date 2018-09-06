@@ -17,3 +17,4 @@
 [Часть 3. Модуль 5 - Практика. Адаптивная верстка первого экрана](https://nikita-schastnev.github.io/lesson_15_1 "Верстка первого экрана")  
 [Урок 16 - Слайдер на сайте](https://nikita-schastnev.github.io/lesson_16 "Слайдеры")  
 [Часть 4. Модуль 5 - Практика. Верстка блока с преимуществами](https://nikita-schastnev.github.io/lesson_16_1 "Верстка блока с преимуществами")  
+[Урок 17 - Всплывающие окна](https://nikita-schastnev.github.io/lesson_17 "Всплывающие окна")  
