@@ -19,3 +19,4 @@
 [Часть 4. Модуль 5 - Практика. Верстка блока с преимуществами](https://nikita-schastnev.github.io/lesson_16_1 "Верстка блока с преимуществами")  
 [Урок 17 - Всплывающие окна](https://nikita-schastnev.github.io/lesson_17 "Всплывающие окна")  
 [Часть 5. Модуль 5 - Практика. Верстка всплывающего окна](https://nikita-schastnev.github.io/lesson_17_1 "Верстка всплывающего окна")  
+[Урок 18 (I часть - Табы и аккордеон на сайте](https://nikita-schastnev.github.io/lesson_18 " Аккордеон на сайте")  
