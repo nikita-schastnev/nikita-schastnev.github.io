@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Задание к 18 уроку - табы</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+	<!-- Шрифты -->
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu:400,700" rel="stylesheet"> 
+</head>
+<body>
+	<div class="container">
+		<div class="tab-block">
+			<ul class="nav nav-tabs" id="myTab" role="tablist">
+			  <li class="nav-item">
+			    <a class="nav-link" id="login-tab" data-toggle="tab" href="#login">Вход</a>
+			  </li>
+			  <li class="nav-item">
+			    <a class="nav-link" id="reg-tab" data-toggle="tab" href="#reg">Регистрация</a>
+			  </li>
+			</ul>
+			
+			<div class="tab-content" id="myTabContent">
+			  <div class="tab-pane log-tab fade show active" id="login" role="tabpanel" aria-labelledby="login-tab">
+			  	<form action="#">
+			  		<input class="input-log-name" type="text" placeholder="Ваше имя"><br>
+				  	<input class="input-reg-pass" type="password" placeholder="Пароль"><br>
+				  	<span>Забыли пароль</span><br>
+				  	<div class="remember">
+				  		<input class="checkbox" type="checkbox"><strong>Напомнить мне</strong>
+				  	</div>
+				  	<div class="button-log">
+				  		<button class="btn btn-default">Войти</button>
+				  	</div>
+			  	</form>
+			  </div>
+			  <div class="tab-pane reg-tab fade" id="reg" role="tabpanel" aria-labelledby="reg-tab">
+			  	<form action="#">
+			  		<input class="input-reg first" type="text" placeholder="Ваше имя"><br>
+			  		<input class="input-reg" type="email" placeholder="Ваш e-mail"><br>
+			  		<input class="input-reg" type="password" placeholder="Ваш пароль"><br>
+			  		<input class="input-reg last" type="password" placeholder="Повторите пароль"><br>
+			  		<div class="button-log">
+				  		<button class="btn btn-default">Зарегистрироваться</button>
+				  	</div>
+			  	</form>
+			  </div>
+			</div>
+		</div>
+	</div>
+	
+	<script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
+	<!-- Bootstrap.js -->
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+</body>
+</html>
