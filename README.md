@@ -20,3 +20,4 @@
 [Урок 17 - Всплывающие окна](https://nikita-schastnev.github.io/lesson_17 "Всплывающие окна")  
 [Часть 5. Модуль 5 - Практика. Верстка всплывающего окна](https://nikita-schastnev.github.io/lesson_17_1 "Верстка всплывающего окна")  
 [Урок 18 (I часть) - Табы и аккордеон на сайте](https://nikita-schastnev.github.io/lesson_18 " Аккордеон на сайте")  
+[Урок 18 (II часть) - Табы и аккордеон на сайте](https://nikita-schastnev.github.io/lesson_18_1 " Табы на сайте")  
