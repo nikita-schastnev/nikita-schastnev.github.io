@@ -22,3 +22,4 @@
 [Урок 18 (I часть) - Табы и аккордеон на сайте](https://nikita-schastnev.github.io/lesson_18 " Аккордеон на сайте")  
 [Урок 18 (II часть) - Табы и аккордеон на сайте](https://nikita-schastnev.github.io/lesson_18_1 " Табы на сайте")  
 [Часть 6. Модуль 5 - Практика. Верстка блока с ценами](https://nikita-schastnev.github.io/lesson_18_2 "Верстка Верстка блока с ценами")  
+[Урок 19 - Анимация на CSS3](https://nikita-schastnev.github.io/lesson_19 "Анимация на CSS3")  
