@@ -24,3 +24,4 @@
 [Часть 6. Модуль 5 - Практика. Верстка блока с ценами](https://nikita-schastnev.github.io/lesson_18_2 "Верстка Верстка блока с ценами")  
 [Урок 19 - Анимация на CSS3](https://nikita-schastnev.github.io/lesson_19 "Анимация на CSS3")  
 [Часть 7. Модуль 6 - Практика. Верстка блока с отзывами](https://nikita-schastnev.github.io/lesson_19_1 "Верстка Верстка блока с отзывами")  
+[Урок 20 - Видеофон на сайте](https://nikita-schastnev.github.io/lesson_20 "Видеофон на сайте")  
