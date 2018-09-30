@@ -28,3 +28,4 @@
 [Часть 8. Модуль 6 - Практика. Адаптивная верстка блока с отзывами](https://nikita-schastnev.github.io/lesson_20_1 "Адаптивная верстка блока с отзывами")  
 [Урок 21 - Parallax эффект для сайта](https://nikita-schastnev.github.io/lesson_21 "Parallax эффект для сайта")  
 [Часть 9. Модуль 6 - Практика. Верстка схемы работы и все включено](https://nikita-schastnev.github.io/lesson_21_1 " Верстка схемы работы и все включено")  
+[Урок 22 - Гео-карты для сайта](https://nikita-schastnev.github.io/lesson_22 "Гео-карты для сайта")  
